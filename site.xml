@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/pmrancuret.uncrustify.feature_1.0.0.201412242125.jar" id="pmrancuret.uncrustify.feature" version="1.0.0.201412242125"/>
+   <feature url="features/pmrancuret.uncrustify.feature_1.0.0.qualifier.jar" id="pmrancuret.uncrustify.feature" version="1.0.0.qualifier">
+      <category name="pmrancuret"/>
+   </feature>
    <category-def name="pmrancuret" label="Eclipse Plugins">
       <description>
          Plugins developed for the Eclipse environment.
